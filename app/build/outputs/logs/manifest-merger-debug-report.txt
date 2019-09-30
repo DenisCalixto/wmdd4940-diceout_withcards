@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5d2a9f265f8fb4a3786b4f61ab1687f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f8096823ca58050fd973eda591c92f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\77966272810d14e36cdc64e4940fc7bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fd9e2c59481eedc9103020fb32547045\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\7635587b24f2c300e2531807a3401688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\05650566369f98fad95a792197aba16a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0c274ee97225e002efb3270275d8f1ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\83fd8a844a1c27b9683a7cddf82d6839\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\2e201f2c991e28c15d0d7fd473db31f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\faad99dbc3d63499196c6201e4f443ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\be1892f8ae45c39607690520486d3266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4ccc506d59ae1f07cafc094d33aecb78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\b70e7d873448feadf4d8dabac2ff6c48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\3aca4a430b965fd60695a44cd990a813\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\797d551e701caa3b720f0f222c268e1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\206c520306381b94d48bd710c4e95567\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\15e49e3f026f67a0033931bf63608974\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8d9faa4402a8799eb9b2675198aeca74\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\bd9fa634e9f7ac2f956aef0fcfe4c426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fad17e46d2c50b42730b2f56052c71a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\9dc5dabaf01e88378278db81adc89bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\df9df998c6b6eeac80854c7f3bd8d3ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4d91f062ae9aa26a237a7832cc6d65b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\e24b65976d0635daedaf7945f8f8095f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f9f61022835c254b57addd0bc7e9dc9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5c1b5bb832ff74aa679433c18a453dd4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0e9e99d67c7c5afee1e20be71212fd86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\79fd0f2375acfeb2a922e503435718c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\40df5e70e3b42dc7ac2853b75181bdbc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5d2a9f265f8fb4a3786b4f61ab1687f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5d2a9f265f8fb4a3786b4f61ab1687f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8d9faa4402a8799eb9b2675198aeca74\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8d9faa4402a8799eb9b2675198aeca74\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.diceout.MainActivity
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5d2a9f265f8fb4a3786b4f61ab1687f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5d2a9f265f8fb4a3786b4f61ab1687f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f8096823ca58050fd973eda591c92f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f8096823ca58050fd973eda591c92f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\77966272810d14e36cdc64e4940fc7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\77966272810d14e36cdc64e4940fc7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fd9e2c59481eedc9103020fb32547045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fd9e2c59481eedc9103020fb32547045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\7635587b24f2c300e2531807a3401688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\7635587b24f2c300e2531807a3401688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\05650566369f98fad95a792197aba16a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\05650566369f98fad95a792197aba16a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0c274ee97225e002efb3270275d8f1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0c274ee97225e002efb3270275d8f1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\83fd8a844a1c27b9683a7cddf82d6839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\83fd8a844a1c27b9683a7cddf82d6839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\2e201f2c991e28c15d0d7fd473db31f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\2e201f2c991e28c15d0d7fd473db31f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\faad99dbc3d63499196c6201e4f443ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\faad99dbc3d63499196c6201e4f443ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\be1892f8ae45c39607690520486d3266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\be1892f8ae45c39607690520486d3266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4ccc506d59ae1f07cafc094d33aecb78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4ccc506d59ae1f07cafc094d33aecb78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\b70e7d873448feadf4d8dabac2ff6c48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\b70e7d873448feadf4d8dabac2ff6c48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\3aca4a430b965fd60695a44cd990a813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\3aca4a430b965fd60695a44cd990a813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\797d551e701caa3b720f0f222c268e1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\797d551e701caa3b720f0f222c268e1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\206c520306381b94d48bd710c4e95567\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\206c520306381b94d48bd710c4e95567\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\15e49e3f026f67a0033931bf63608974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\15e49e3f026f67a0033931bf63608974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\dc262ef6fe01a0b7587d0bd9bbf0a475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8d9faa4402a8799eb9b2675198aeca74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8d9faa4402a8799eb9b2675198aeca74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\bd9fa634e9f7ac2f956aef0fcfe4c426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\bd9fa634e9f7ac2f956aef0fcfe4c426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fad17e46d2c50b42730b2f56052c71a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\fad17e46d2c50b42730b2f56052c71a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\9dc5dabaf01e88378278db81adc89bc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\9dc5dabaf01e88378278db81adc89bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\df9df998c6b6eeac80854c7f3bd8d3ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\df9df998c6b6eeac80854c7f3bd8d3ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4d91f062ae9aa26a237a7832cc6d65b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\4d91f062ae9aa26a237a7832cc6d65b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\e24b65976d0635daedaf7945f8f8095f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\e24b65976d0635daedaf7945f8f8095f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f9f61022835c254b57addd0bc7e9dc9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\f9f61022835c254b57addd0bc7e9dc9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5c1b5bb832ff74aa679433c18a453dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\5c1b5bb832ff74aa679433c18a453dd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0e9e99d67c7c5afee1e20be71212fd86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\0e9e99d67c7c5afee1e20be71212fd86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\79fd0f2375acfeb2a922e503435718c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\79fd0f2375acfeb2a922e503435718c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\40df5e70e3b42dc7ac2853b75181bdbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\40df5e70e3b42dc7ac2853b75181bdbc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		ADDED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Langara\Android\wmdd4940-diceout_withcards\app\src\main\AndroidManifest.xml

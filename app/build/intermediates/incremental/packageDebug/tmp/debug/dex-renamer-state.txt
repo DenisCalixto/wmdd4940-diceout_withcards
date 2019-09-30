@@ -1,0 +1,4 @@
+#Mon Sep 30 13:24:09 PDT 2019
+base.0=C\:\\Langara\\Android\\wmdd4940-diceout_withcards\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
